@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Send me "Hello World" via:</p>
+<p align="left">Send me a message or simply your "Hello World" via:</p>
 
 ###
 
