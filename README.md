@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tobias and I'm a passionated developer from germany.</h2>
+<h2 align="left">Hi 👋! My name is Tobias and I'm a passionated consultant and developer from germany.</h2>
 
 ###
 
